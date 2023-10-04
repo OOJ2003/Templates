@@ -1,2 +1,2 @@
 # Templates
- Templates fot personal projects
+ Templates for personal projects
